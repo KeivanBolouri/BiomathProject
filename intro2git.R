@@ -6,3 +6,6 @@ z<- "reza"
 z
 o<- "reaza"
 o
+
+out<<- 99*12
+out
