@@ -7,5 +7,5 @@ z
 o<- "reaza"
 o
 
-out<<- 99*12
+out<<- 99*1
 out
