@@ -12,3 +12,6 @@ out
 
 po <- "hello reza"
 po
+
+yo <-"655"
+yo
