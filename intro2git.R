@@ -9,3 +9,6 @@ o
 
 out<<- 99*1
 out
+
+po<- power(2,3)
+po
