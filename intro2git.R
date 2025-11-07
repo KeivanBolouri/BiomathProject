@@ -13,5 +13,5 @@ out
 po <- "hello reza"
 po
 
-yo <-"655888*"
+yo <-"655888"
 yo
