@@ -4,3 +4,5 @@ y<- x^2
 y
 z<- "reza"
 z
+o<- "reaza"
+o
